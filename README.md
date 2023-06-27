@@ -1,11 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Michael M. Ghaly</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelmansour256&label=Profile%20views&color=0e75b6&style=flat" alt="michaelmansour256" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelmansour256" alt="michaelmansour256" /></a> </p>
 
 - 🔭 I’m currently working as **Teaching Assistant at FCIS-ASU**
 
@@ -14,8 +8,6 @@
 - 💬 Ask me about **Python, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **Michael.Mansour@cis.asu.edu.eg**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/michaelmansourghaly/](https://www.linkedin.com/in/michaelmansourghaly/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
