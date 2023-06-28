@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael M. Ghaly</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 - 🔭 I’m currently working as **Teaching Assistant at FCIS-ASU**
 
