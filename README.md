@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthewoodlandsatfurman.org%2Fhow-lifelong-learning-keeps-you-feeling-young%2F&psig=AOvVaw2DAtrdYFQJJVdDD5DnyFO5&ust=1719346500991000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCdhIaH9YYDFQAAAAAdAAAAABAE](https://plus.unsplash.com/premium_photo-1671017656975-9bde40e8d1ae?q=80&w=1545&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://plus.unsplash.com/premium_photo-1685086785333-976367da9210?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHVybHxlbnwwfHwwfHx8MA%3D%3D)"  />
-</div>
+<img align="left" height="250" src="https://media.licdn.com/dms/image/D4D03AQH_LVSXh1JpYQ/profile-displayphoto-shrink_800_800/0/1691044089681?e=1724889600&v=beta&t=8VjX3q9SrFlXWOtVHHs9lmEHew1Qt8D8Zhi2vqowoYY"  />
 
 ###
 
@@ -11,8 +9,9 @@
   <a href="https://www.behance.net/MichaelMansour" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
-  
-  
+  <a href="https://outlook.office.com/mail/Michael.Mansour@cis.asu.edu.eg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
@@ -25,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Michael from Egypt<br><br>- 🔭 I’m working as Teaching Assistant @ FCIS - Ain Shams University<br>- 📚 I'm currently learning Data Science / AI<br>- ⚡ In my free time I watch movies</p>
+<p align="left">I'm Michael from Egypt<br><br>- 🔭 I’m working as Teaching Assistant<br>- 📚 I'm currently learning Data Science / AI<br>- ⚡ In my free time I watch movies</p>
 
 ###
 
@@ -62,6 +61,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelMansour256&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MichaelMansour256&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MichaelMansour256/count.svg?"  />
 </div>
 
 ###
