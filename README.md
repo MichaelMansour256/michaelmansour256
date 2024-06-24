@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthewoodlandsatfurman.org%2Fhow-lifelong-learning-keeps-you-feeling-young%2F&psig=AOvVaw2DAtrdYFQJJVdDD5DnyFO5&ust=1719346500991000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCdhIaH9YYDFQAAAAAdAAAAABAE"  />
+  <img height="150" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fthewoodlandsatfurman.org%2Fhow-lifelong-learning-keeps-you-feeling-young%2F&psig=AOvVaw2DAtrdYFQJJVdDD5DnyFO5&ust=1719346500991000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCdhIaH9YYDFQAAAAAdAAAAABAE](https://plus.unsplash.com/premium_photo-1671017656975-9bde40e8d1ae?q=80&w=1545&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)"  />
 </div>
 
 ###
