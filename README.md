@@ -66,8 +66,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MichaelMansour256/count.svg?"  />
-</div>
-
-###
